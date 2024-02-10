@@ -1,3 +1,15 @@
 // This is just the sample file
 
 //This is added for sample branch
+
+#include<stdio.h>
+
+int main()
+{
+ int a,b = 0;
+ int c = a + b;
+ printf("Answer is c = %d", c);
+ return 0;
+}
+
+//End of file
